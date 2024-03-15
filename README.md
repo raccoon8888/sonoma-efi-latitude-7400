@@ -4,14 +4,15 @@
 
 ![Alt text](peripherals.png)
 
+![Alt text](usb.png)
+
 ![Alt text](bluetooth.png)
 
 ![Alt text](gpu.png)
 
-![Alt text](usb.png)
-
 ![Alt text](wifi.png)
 
+![Alt text](display.png)
 
 bios settings via modGUBShell.efi
 
