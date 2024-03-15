@@ -2,7 +2,7 @@
 
 ![Alt text](about.png)
 
-![Alt text](peripherais.png)
+![Alt text](peripherals.png)
 
 ![Alt text](bluetooth.png)
 
@@ -12,7 +12,6 @@
 
 ![Alt text](wifi.png)
 
-![Alt text](Screenshot2.png)
 
 bios settings via modGUBShell.efi
 
